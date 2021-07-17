@@ -6,7 +6,7 @@ function App() {
   return (
     <div class="centered">
       <PersonCard
-        lastName={"Apellido1"}
+        lastName={"Apellido11"}
         firstName={"Nombre1"}
         age={10}
         hairColor={"Brown"}
